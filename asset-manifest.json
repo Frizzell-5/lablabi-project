@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lablabi-project/static/css/main.2de2dbca.css",
+    "main.css": "/lablabi-project/static/css/main.963ea930.css",
     "main.js": "/lablabi-project/static/js/main.63286ee9.js",
     "static/media/snow.jpg": "/lablabi-project/static/media/snow.2f45a1916880f4c54276.jpg",
     "static/media/soup.jpg": "/lablabi-project/static/media/soup.005a59a9937949a8a806.jpg",
@@ -14,11 +14,11 @@
     "static/media/fa-v4compatibility.ttf": "/lablabi-project/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
     "static/media/fa-v4compatibility.woff2": "/lablabi-project/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/lablabi-project/index.html",
-    "main.2de2dbca.css.map": "/lablabi-project/static/css/main.2de2dbca.css.map",
+    "main.963ea930.css.map": "/lablabi-project/static/css/main.963ea930.css.map",
     "main.63286ee9.js.map": "/lablabi-project/static/js/main.63286ee9.js.map"
   },
   "entrypoints": [
-    "static/css/main.2de2dbca.css",
+    "static/css/main.963ea930.css",
     "static/js/main.63286ee9.js"
   ]
 }
